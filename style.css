@@ -1,0 +1,14 @@
+body {
+  background: rgb(3, 48, 51);
+  background: linear-gradient(
+    172deg,
+    rgba(3, 48, 51, 1) 7%,
+    rgba(20, 29, 77, 1) 100%
+  );
+}
+
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+}

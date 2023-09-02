@@ -1,4 +1,4 @@
-# balls
+# Threejs spheres
 
 An experiment project using Three.js
 
